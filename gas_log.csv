@@ -1,0 +1,25 @@
+date,company,town,state,zip,gallons,price,sale,miles,time,product,fillup
+5/20/19,Delta,Long Valley,NJ,7853,7.332,2.979,21.84,,20:13:00,unleaded,yes
+5/25/19,Delta,Long Valley,NJ,7853,9.607,2.979,28.62,229,12:20:00,unleaded,yes
+6/2/19,7-Eleven,Somerset,NJ,7883,7.172,2.739,19.64,,14:43:00,regular,yes
+6/21/19,Wawa,Elkton,MD,21921,7.347,2.449,17.99,,20:46:12,unleaded,yes
+6/25/19,Wawa,Hacketstown,NJ,7840,8.273,2.639,21.83,204,16:05:26,unleaded,yes
+6/28/19,Wawa,Hacketstown,NJ,7840,7.954,2.759,21.95,184,17:16:42,unleaded,yes
+7/3/19,BP,Ledgewood,NJ,7852,7.905,2.619,20.7,172.6,10:26:00,unleaded,yes
+7/12/19,Phillip,Long Valley,NJ,7853,5.844,2.979,14.43,160.9,10:16:00,regular,yes
+7/26/19,Wawa,Elkton,MD,21921,14.173,2.469,34.99,414.7,21:40:47,unleaded,yes
+7/27/19,QuickChek,North Brunswick,NJ,8902,4.51,2.559,11.54,138.2,19:29:55,regular,yes
+8/2/19,Wawa,Elkton,MD,21921,10.947,2.499,27.36,325.8,20:33:53,unleaded,yes
+8/4/19,Wawa,Somerset,NJ,8873,3.8,2.539,9.65,116.7,20:57:51,unleaded,yes
+8/14/19,Lukoil,Highland Park,NJ,8904,13.918,2.559,35.62,427.5,15:51:00,unleaded,yes
+9/1/19,Wawa,Hacketstown,NJ,7840,7.816,2.459,19.22,201.6,13:43:30,unleaded,yes
+9/14/19,Delta,Long Valley,NJ,7853,7.812,2.779,21.71,192.6,20:28:00,unleaded,yes
+10/1/19,Wawa,Hacketstown,NJ,7840,13.916,2.419,33.66,350.7,11:46:59,unleaded,yes
+10/11/19,Wawa,Hacketstown,NJ,7840,5.412,2.379,12.88,118.7,14:53:52,unleaded,yes
+11/2/19,Wawa,Somerset,NJ,8873,14.441,2.499,46.09,356.1,09:09:38,unleaded,yes
+11/8/19,Wawa,Hacketstown,NJ,7840,7.515,2.459,18.48,186.2,15:51:54,unleaded,yes
+11/22/19,Delta,Long Valley,NJ,7853,11.226,2.679,30.07,255.8,20:21:00,unleaded,yes
+11/29/19,Wawa,Hacketstown,NJ,7840,14.186,2.379,33.75,381.2,07:48:44,unleaded,yes
+12/13/19,Wawa,Hacketstown,NJ,7840,13.604,2.359,32.09,304.5,13:33:32,unleaded,yes
+12/18/19,Wawa,Hacketstown,NJ,7840,7.144,2.359,16.85,170.1,13:34:59,unleaded,yes
+12/23/19,Exxon,Randolph,NJ,7869,5.497,2.699,14.84,140.2,11:13:22,regular,yes
