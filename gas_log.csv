@@ -23,3 +23,4 @@ date,company,town,state,zip,gallons,price,sale,miles,time,product,fillup
 12/13/19,Wawa,Hacketstown,NJ,7840,13.604,2.359,32.09,304.5,13:33:32,unleaded,yes
 12/18/19,Wawa,Hacketstown,NJ,7840,7.144,2.359,16.85,170.1,13:34:59,unleaded,yes
 12/23/19,Exxon,Randolph,NJ,7869,5.497,2.699,14.84,140.2,11:13:22,regular,yes
+1/2/20,Wawa,Hacketstown,NJ,7840,8.45,2.519,21.29,240.5,16:19:07,unleaded,yes
